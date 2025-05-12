@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Tests\Serivce;
+namespace App\Tests\Service;
 
 use App\Fixtures\MovieFixtures;
 use App\Service\DataService;
